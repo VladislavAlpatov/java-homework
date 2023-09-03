@@ -1,4 +1,4 @@
-package org.example.homework1;
+package homework2;
 
 public class Book
 {
