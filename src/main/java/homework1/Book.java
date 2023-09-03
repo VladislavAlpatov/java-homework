@@ -1,4 +1,4 @@
-package homework2;
+package homework1;
 
 public class Book
 {

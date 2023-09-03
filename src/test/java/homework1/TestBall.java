@@ -1,7 +1,5 @@
 package homework1;
 
-import org.example.homework1.Ball;
-
 public class TestBall {
     public static void main(String[] args)
     {

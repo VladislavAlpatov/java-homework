@@ -1,7 +1,5 @@
 package homework1;
 
-import org.example.homework1.Book;
-
 public class TestBook {
     public static void main(String[] args)
     {

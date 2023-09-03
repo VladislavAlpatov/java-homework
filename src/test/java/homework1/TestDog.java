@@ -1,7 +1,5 @@
 package homework1;
 
-import org.example.homework1.Dog;
-
 
 public class TestDog {
     public static void main(String[] args) {
