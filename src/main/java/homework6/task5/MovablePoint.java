@@ -1,7 +1,8 @@
-package homework6.task1;
+package homework6.task5;
 
 
-public class MovablePoint implements Movable {
+public class MovablePoint implements Movable
+{
     private int x;
     private int y;
     public int xSpeed;
