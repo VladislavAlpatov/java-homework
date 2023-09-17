@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9b2c69-62e5-493b-8583-2b2c681a3bd7" name="Changes" comment="fixed error">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task1/RegexStringSplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework14/task8/Main.java" afterDir="false" />
+    <list default="true" id="9d9b2c69-62e5-493b-8583-2b2c681a3bd7" name="Changes" comment="added more files">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/task4/GUICalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VladislavAlpatov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="21e3da9a-8ac5-4c1f-bee2-d476a4199c00" />
+        <option name="url" value="https://github.com/VladislavAlpatov/java-homework.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -41,27 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Vlad/IdeaProjects/untitled",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vlad/IdeaProjects/untitled&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.homework14.task9.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.task6.Main" />
+}</component>
+  <component name="RunManager" selected="Application.GUICalculator">
+    <configuration name="GUICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.task4.GUICalculator" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.task6.*" />
+          <option name="PATTERN" value="homework15.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework14.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.task5.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework14.task6.Main" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.task5.*" />
+          <option name="PATTERN" value="homework14.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GUICalculator" />
         <item itemvalue="Application.homework14.task9.Main" />
         <item itemvalue="Application.homework14.task8.Main" />
         <item itemvalue="Application.homework14.task7.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.homework14.task5.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +148,11 @@
       <option name="presentableId" value="Default" />
       <updated>1694881786190</updated>
       <workItem from="1694881787189" duration="119000" />
-      <workItem from="1694964131412" duration="3634000" />
+      <workItem from="1694964131412" duration="4522000" />
+      <workItem from="1694969677316" duration="38000" />
+      <workItem from="1694969725015" duration="76000" />
+      <workItem from="1694969811257" duration="107000" />
+      <workItem from="1694969935029" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="fixed error">
       <option name="closed" value="true" />
@@ -150,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694881841789</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added more files">
+      <option name="closed" value="true" />
+      <created>1694967992325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694967992325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +189,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed error" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed error" />
+    <MESSAGE value="added more files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

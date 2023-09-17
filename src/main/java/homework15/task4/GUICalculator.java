@@ -1,4 +1,4 @@
-package homework15.task1;
+package homework15.task4;
 
 import javax.swing.*;
 import java.awt.*;
