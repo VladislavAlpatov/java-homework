@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d9b2c69-62e5-493b-8583-2b2c681a3bd7" name="Changes" comment="added more files">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/task4/GUICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework15/task1/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GUICalculator">
+  <component name="RunManager" selected="Application.SimpleCalculator">
     <configuration name="GUICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework15.task4.GUICalculator" />
       <module name="untitled1" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.task6.Main" />
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.task1.SimpleCalculator" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.task6.*" />
+          <option name="PATTERN" value="homework15.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.GUICalculator" />
         <item itemvalue="Application.homework14.task9.Main" />
         <item itemvalue="Application.homework14.task8.Main" />
         <item itemvalue="Application.homework14.task7.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +153,8 @@
       <workItem from="1694969725015" duration="76000" />
       <workItem from="1694969811257" duration="107000" />
       <workItem from="1694969935029" duration="40000" />
+      <workItem from="1694969980972" duration="189000" />
+      <workItem from="1695200666882" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="fixed error">
       <option name="closed" value="true" />
